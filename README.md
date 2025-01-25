@@ -1,0 +1,2 @@
+- bisa menggunakan google colab maupun jupiter notebook
+- pastikan sudah terinstal python yang lts atau terbaru
